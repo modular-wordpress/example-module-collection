@@ -1,3 +1,3 @@
-<section class="example-module content-module">
+<section class="example-module-one content-module">
     This is the first example module.
 </section>
